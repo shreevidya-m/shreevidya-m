@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm M. Shreevidya 👋</h1>
+<h1 align="center">Greetings, I'm M. Shreevidya 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Enthusiast-%23E4405F.svg?style=for-the-badge&logo=react&logoColor=white" />
