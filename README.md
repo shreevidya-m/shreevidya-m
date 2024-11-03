@@ -26,52 +26,23 @@
 
 ### 💼 Technical Skills
 
-- **Programming Languages:** Python, Java, HTML, CSS, Embedded C
-- **Machine Learning:** Python (Supervised, Unsupervised Learning), CNNs, ANNs
-- **Hardware Technologies:** Verilog, SystemVerilog, SoC Verification
-- **Databases:** SQL, MySQL
-- **Tools & IDEs:** VS Code, Eclipse, Power BI, Cadence, Xilinx, MATLAB, Keil µVision
-- **Version Control:** Git, GitHub
-
----
-
-### 🚀 Projects
-
-- **[Power BI Amazon Shopping Dashboard](https://github.com/shreevidya-m/shopping-dashboard-power-bi)**  
-  *A dynamic dashboard for visualizing Amazon shopping data, enabling enhanced data-driven decisions.*
-
-- **Solar Panel Power Prediction**  
-  *Machine learning model using ANNs for accurate solar power generation predictions.*
-
-- **Brain Tumor Detection**  
-  *Leveraged CNNs for precise brain tumor detection from MRI images.*
-
-- **Cure Analytics & Eduminous**  
-  *Digital management solutions for optimizing healthcare and education sectors.*
-
----
-
-### 🎖 Achievements
-
-- **Top 10 in Chennai District, EDII-Tamil Nadu Hackathon**  
-  Final pitch on advanced coating technology to boost PV output of solar panels.
-
-- **Analog Expo First Prize Winner**  
-  Recognized for an innovative fire alarm system at Rajalakshmi Engineering College.
-
-- **Silver Elite in NPTEL IoT Exam**  
-  Scored 82% in the IoT certification exam by NPTEL.
-
----
-
-### 📜 Certifications
-
-- **SoC Verification using SystemVerilog** - Taras Systems and Solutions
-- **Generative AI Certificate** - Google Cloud & TalentSprint
-- **AZ-900: Microsoft Azure Fundamentals** - Udemy
-- **Python Certification** - GeeksforGeeks Platform
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Embedded%20C-%233A75C4.svg?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Verilog-%237E4C8F.svg?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-%23F7DF1E.svg?style=for-the-badge&logo=systemverilog&logoColor=white" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Cadence-%23B22222.svg?style=for-the-badge&logo=cadence&logoColor=white" alt="Cadence" />
+  <img src="https://img.shields.io/badge/Xilinx-%23E01F27.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Xilinx" />
+  <img src="https://img.shields.io/badge/MATLAB-%23FF9900.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Keil%20µVision-%230088CC.svg?style=for-the-badge&logo=keil&logoColor=white" alt="Keil µVision" />
+</p>
 
 ### 🌍 Connect with Me
 
