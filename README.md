@@ -13,17 +13,19 @@
   📫 Reach Me: <a href="mailto:shreevidyasundar14@gmail.com">shreevidyasundar14@gmail.com</a>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreevidya-m&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreevidya-m&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
- <div align="center">
-  <img src="https://geeky.sh/api/user/shreevidyajooj" alt="Geeks for Geeks Stats" />
 </div>
 
+---
+
+### 📊 GeeksforGeeks Stats
+
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/user/shreevidyajooj/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-%234CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </div>
 
 ---
