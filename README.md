@@ -56,7 +56,6 @@
   <a href="https://www.linkedin.com/in/shreevidya-m-2a504b318"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/shreevidya-m"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://youtube.com/@shreevm4?si=gbVngMQTqvtRnZUX"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/shreevidyajooj/"><img src="https://img.shields.io/badge/GeeksforGeeks-%234CAF50.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 
