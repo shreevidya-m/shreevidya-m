@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/Xilinx-%23E01F27.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Xilinx" />
   <img src="https://img.shields.io/badge/MATLAB-%23FF9900.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Keil%20µVision-%230088CC.svg?style=for-the-badge&logo=keil&logoColor=white" alt="Keil µVision" />
+  <img src="https://img.shields.io/badge/PyCharm-%230E5E7B.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+
 </p>
 
 ### 🌍 Connect with Me
