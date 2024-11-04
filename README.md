@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm M. Shreevidya 👋</h1>
+ Greetings, I'm M. Shreevidya 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Enthusiast-%23E4405F.svg?style=for-the-badge&logo=react&logoColor=white" />
@@ -49,4 +49,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shreevidya-m-2a504b318"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/shreevidya-m"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCXXXXXX"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/shreevidya/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-%234CAF50.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
+
+### 📈 Geeks for Geeks Stats
+
+![GFG Stats](https://api.geeksforgeeks.org/user_stats?user=shreevidya-m)
+
