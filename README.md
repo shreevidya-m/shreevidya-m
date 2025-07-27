@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://shreevidya.framer.website" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Portfolio-%23FF6F61?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio Button"/>
+    <img src="https://img.shields.io/badge/ Portfolio-%23FF6F61?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio Button"/>
   </a>
 </p>
 
 
-# Greetings, I'm M. Shreevidya 👋
+# Greetings, I'm M. Shreevidya 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Enthusiast-%23E4405F.svg?style=for-the-badge&logo=react&logoColor=white" />
@@ -15,9 +15,8 @@
 </p>
 
 <p align="center">
-  🌱 Electronics and Communication Engineering | Rajalakshmi Engineering College, Chennai<br>
-  🎓 Expected Graduation: 2025<br>
-  📫 Reach Me: <a href="mailto:shreevidyasundar14@gmail.com">shreevidyasundar14@gmail.com</a>
+   Electronics and Communication Engineering | Rajalakshmi Engineering College, Chennai<br>
+   Reach Me: <a href="mailto:shreevidyasundar14@gmail.com">shreevidyasundar14@gmail.com</a>
 </p>
 
 ### 📊 GitHub Stats
