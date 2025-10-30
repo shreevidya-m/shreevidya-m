@@ -5,7 +5,7 @@
 </p>
 
 
-# Greetings, I'm M. Shreevidya 
+# Hello, I'm M. Shreevidya 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Enthusiast-%23E4405F.svg?style=for-the-badge&logo=react&logoColor=white" />
