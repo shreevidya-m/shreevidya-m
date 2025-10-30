@@ -19,7 +19,7 @@
   Mail ID: <a href="mailto:shreevidyasundar14@gmail.com">shreevidyasundar14@gmail.com</a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreevidya-m&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 GeeksforGeeks Stats
+###  GeeksforGeeks Stats
 
 <div align="center">
   <a href="https://www.geeksforgeeks.org/user/shreevidyajooj/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-%234CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
@@ -36,7 +36,7 @@
 
 ---
 
-### 💼 Technical Skills
+###  Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -58,6 +58,6 @@
 
 </p>
 
-### 🌍 Connect with Me
+###  Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/shreevidya-m-2a504b318"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/shreevidya-m"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://youtube.com/@shreevm4?si=gbVngMQTqvtRnZUX"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://www.credly.com/users/shreevidya-m"><img src="https://img.shields.io/badge/Credly-%23FF6C37.svg?style=for-the-badge&logo=credly&logoColor=white" /></a> </p>
 
