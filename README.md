@@ -16,7 +16,7 @@
 
 <p align="center">
   
-   Reach Me: <a href="mailto:shreevidyasundar14@gmail.com">shreevidyasundar14@gmail.com</a>
+  Mail ID: <a href="mailto:shreevidyasundar14@gmail.com">shreevidyasundar14@gmail.com</a>
 </p>
 
 ### 📊 GitHub Stats
