@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-   Electronics and Communication Engineering | Rajalakshmi Engineering College, Chennai<br>
+  
    Reach Me: <a href="mailto:shreevidyasundar14@gmail.com">shreevidyasundar14@gmail.com</a>
 </p>
 
